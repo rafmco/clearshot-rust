@@ -57,6 +57,8 @@ The executable is created at `target\release\clearshot.exe`. Use `cargo run` dur
 
 Issues and pull requests are welcome. For larger changes, please open an issue first to discuss the idea.
 
+Maintainers: see [RELEASING.md](RELEASING.md) for how to publish a new version.
+
 ## Clean-room notice
 
 ClearShot is an independent implementation written from a description of the desired behaviour. No code, binaries, assets or resources from any other program were used. It is not affiliated with or endorsed by any other software vendor.
