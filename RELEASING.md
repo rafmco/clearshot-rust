@@ -1,7 +1,7 @@
 # Como publicar uma nova versão
 
 Cada versão é publicada a partir de uma tag `vX.Y.Z`. O GitHub Actions compila o
-`clearshot.exe` e anexa o `clearshot-windows-x64.zip` na página de Releases.
+`clearshot.exe` e o anexa na página de Releases.
 
 ## Passo a passo
 

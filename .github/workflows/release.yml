@@ -11,7 +11,6 @@ jobs:
       - uses: actions/checkout@v4
       - uses: dtolnay/rust-toolchain@stable
       - run: cargo build --release
-      - run: Compress-Archive target/release/clearshot.exe clearshot-windows-x64.zip
       - uses: softprops/action-gh-release@v2
         with:
-          files: clearshot-windows-x64.zip
+          files: target/release/clearshot.exe

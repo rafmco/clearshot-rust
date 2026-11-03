@@ -9,7 +9,7 @@ A free, open-source screen, game and sound recorder for Windows. No ads, no wate
 
 ## Download
 
-Get the latest `clearshot-windows-x64.zip` from the [Releases page](https://github.com/rafmco/clearshot-rust/releases/latest), unzip it and run `clearshot.exe`. No installation needed.
+Download `clearshot.exe` from the [Releases page](https://github.com/rafmco/clearshot-rust/releases/latest) and run it. No installation needed.
 
 **Requirements:** Windows 10 or 11 (64-bit). [FFmpeg](https://ffmpeg.org) is optional and only needed for MKV, FLV, VOB and AVI output.
 
@@ -73,7 +73,7 @@ ClearShot is an independent implementation written from a description of the des
 
 Gravador de tela, jogos e áudio para Windows, gratuito e de código aberto. Sem anúncios e em um único executável.
 
-**Download:** baixe o `clearshot-windows-x64.zip` na [página de Releases](https://github.com/rafmco/clearshot-rust/releases/latest), descompacte e execute o `clearshot.exe`. Não precisa instalar.
+**Download:** baixe o `clearshot.exe` na [página de Releases](https://github.com/rafmco/clearshot-rust/releases/latest) e execute. Não precisa instalar.
 
 **Requisitos:** Windows 10 ou 11 (64 bits). O [FFmpeg](https://ffmpeg.org) é opcional e só é necessário para MKV, FLV, VOB e AVI.
 

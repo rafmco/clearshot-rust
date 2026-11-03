@@ -83,7 +83,7 @@ checksum = "4e7648175b45a9a48536d676f68d918270699102aa8dab5496df06904c914600"
 
 [[package]]
 name = "clearshot"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "image 0.25.10",
  "macroquad",
