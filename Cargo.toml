@@ -1,6 +1,6 @@
 [package]
 name = "clearshot"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 
 [dependencies]
@@ -42,3 +42,6 @@ opt-level = 3
 
 [profile.dev]
 opt-level = 2
+
+[build-dependencies]
+winresource = "0.1"

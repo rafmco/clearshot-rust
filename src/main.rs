@@ -1047,6 +1047,11 @@ fn conf() -> Conf {
     };
     Conf {
         window_title: "ClearShot".into(),
+        icon: Some(macroquad::miniquad::conf::Icon {
+            small: *include_bytes!("../assets/icon16.rgba"),
+            medium: *include_bytes!("../assets/icon32.rgba"),
+            big: *include_bytes!("../assets/icon64.rgba"),
+        }),
         window_width: (W * s) as i32,
         window_height: (H * s) as i32,
         window_resizable: false,
